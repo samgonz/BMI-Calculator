@@ -25,4 +25,4 @@ bmi = weight / height
 #Calls the BMI category
 getBmiCategory(bmi)
 
-print('According to your BMI, you are in the', getBmiCategory(bmi), 'category and have a BMI of', round(bmi,2))
+print('According to your BMI, you are in the', getBmiCategory(bmi), 'category and have a BMI of', round(bmi,2)) 
